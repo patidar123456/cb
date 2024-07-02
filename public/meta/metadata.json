@@ -1,0 +1,112 @@
+{
+  "test-offers": {
+    "meta_title": "test meta title 01",
+    "meta_keywords": "test, meta, keywords, 01",
+    "meta_description": "test meta description 01"
+  },
+  "food-test-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "google-play-gift-code-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "swiggy-food-e-gift-voucher-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "test-food-offers": {
+    "meta_title": "test food meta",
+    "meta_keywords": "test, food, meta, keywords",
+    "meta_description": "test food meta description"
+  },
+  "bank-of-baroda-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "state-bank-of-india-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "hdfc-offers": {
+    "meta_title": "hdfc meta title",
+    "meta_keywords": "hdfc, meta, keyword",
+    "meta_description": "hdfc meta description"
+  },
+  "bank-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "wallet-offers": {
+    "meta_title": "wallet meta title",
+    "meta_keywords": "wallet, meta, keyword",
+    "meta_description": "wallet meta des.."
+  },
+  "Institute-offfers": {
+    "meta_title": "",
+    "meta_keywords": "",
+    "meta_description": ""
+  },
+  "rupay-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "visa-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "test-card-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "platinum-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "beauty-salon-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "sports-offers": {
+    "meta_title": "spo",
+    "meta_keywords": "",
+    "meta_description": ""
+  },
+  "zomato-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "mobiles-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "hair-spa-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "margherita-pizza-offers": {
+    "meta_title": null,
+    "meta_keywords": null,
+    "meta_description": null
+  },
+  "tst-prod-offers": {
+    "meta_title": "tst prod meta title",
+    "meta_keywords": "tst, prod, meta, keyworid",
+    "meta_description": "tst prod meta desc......"
+  }
+}
